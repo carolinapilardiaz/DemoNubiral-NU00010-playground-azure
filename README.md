@@ -1,3 +1,3 @@
-# FastAPI_Finance
-Search Finance Azure
+# NU00010-playground-azure
+Finance search Azure
 
